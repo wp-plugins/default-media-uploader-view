@@ -3,7 +3,7 @@
   Plugin Name: Default Media Uploader View
   Plugin URI: http://wordpress.org/plugins/default-media-uploader-view/
   Description: Sets "Uploaded to this post" instead of "All media items" as the default view in the media uploader
-  Version: 1.0
+  Version: 1.0.1
   Author: leemon
   License: GPLv2 or later
 

@@ -1,8 +1,8 @@
 === Default Media Uploader View ===
 Contributors: leemon
-Tags: media, upload, attachments, admin, filter, view
+Tags: media, upload, attachments, admin, filter, view, images, posts
 Requires at least: 3.5
-Tested up to: 3.9.1
+Tested up to: 4.0
 Stable tag: 1.0.1
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
@@ -15,7 +15,7 @@ since then, the default view for the media library is "All media items" instead 
 as the default view.
 
 == Installation ==
-1. Upload the extracted plugin folder and contained files to your /wp-content/plugins/ directory
+1. Upload the extracted plugin folder and contained files to your `/wp-content/plugins/` directory
 2. Activate the plugin through the "Plugins" menu in WordPress
 
 == Changelog ==
